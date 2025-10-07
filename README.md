@@ -15,7 +15,7 @@ the environment.
 
 Team Contribution
 Luis Carrillo: Managing GitHub workflow (branches, commits, merges)
-
+Jayla Gallegos: Creating the Streamlit conversion
 
 
 
