@@ -15,11 +15,11 @@ the environment.
 
 Team Contribution
 Luis Carrillo: Managing GitHub workflow (branches, commits, merges)
-
 Lauren To: Dataset research and justification
 
 
 
+Logan Robinett: Writing analysis code and producing visualizations
 
 
 
