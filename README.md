@@ -18,6 +18,7 @@ Luis Carrillo: Managing GitHub workflow (branches, commits, merges)
 Jayla Gallegos: Creating the Streamlit conversion
 Lauren To: Dataset research and justification
 Logan Robinett: Writing analysis code and producing visualizations
+Peter-Jonas Ela: Data cleaning and preprocessing
 
 
 
