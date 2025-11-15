@@ -53,8 +53,8 @@ except Exception as e:
 # -------------------------------
 # Title
 # -------------------------------
-st.title("🌍 Climate Intelligence Dashboard")
-st.caption("A colorful, interactive look at climate + agriculture relationships.")
+st.title("🌍 Climate Dashboard 220")
+st.caption("Climate Dashboard highlighting selected data with interactive charts and visuals.")
 
 # -------------------------------
 # Sidebar Filters
